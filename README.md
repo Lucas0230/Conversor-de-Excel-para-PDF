@@ -1,5 +1,5 @@
-# projeto3-FormacaoNodeJs
-App desenvolvido no curso de Node que converte tabelas excel em html e pdf.
+# Conversor-de-Excel-para-PDF
+Projeto desenvolvido no 3º projeto do curso Formação Node.js que converte tabelas excel em html e pdf.
 
 Aprendizado:
 - Classes 
